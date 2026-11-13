@@ -4,5 +4,4 @@ Sumber dan Referensi
 2. Sumber data utama. https://repositorio.iscte-iul.pt/bitstream/10071/16929/1/Hotelbookingdemanddatasets.pdf
 3. Antonio, N., Almeida, A., & Nunes, L. (2019). Big data in hotel revenue management: exploring cancellation drivers to gain insights into booking cancellation behavior. Cornell Hospitality Quarterly, 60(4), 298–319. https://doi.org/10.1177/1938965519851466
 Hotel Reservations Dataset (Kaggle). Dipakai sebagai pembanding pola pada hotel lain (belum divalidasi penuh).
-
-Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, ReportLab: dokumentasi resmi masing-masing pustaka.
+4. Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, ReportLab: dokumentasi resmi masing-masing pustaka.
